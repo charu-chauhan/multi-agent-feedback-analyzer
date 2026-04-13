@@ -1,0 +1,36 @@
+source_id	source_type	category	priority	technical_details	suggested_title
+R001	app_review	Bug	High	Device: Pixel 7, OS: Android 14, App: 3.2.1. Crash on settings page open.	Settings Page Crash on Android - v3.2.1
+R002	app_review	Praise	Low		Positive Review - Task Management and Calendar Integration
+R003	app_review	Bug	Critical	App: 3.2.1, Authentication Failed error. Reinstall did not fix.	Login Authentication Failure After v3.2.1 Update
+R004	app_review	Feature Request	Medium		Feature Request: Dark Mode Support
+R005	app_review	Bug	Critical	App: 3.1.9, Data sync failure between phone and tablet. Data loss reported.	Data Sync Failure Causing Note Loss
+R006	app_review	Feature Request	Low		Feature Request: Built-in Pomodoro Timer
+R007	app_review	Praise	Low		Positive Review - Performance and Widget
+R008	app_review	Bug	High	Device: iPhone 15 Pro, OS: iOS 17.4, App: 3.2.1. 10+ second load time.	Severe Performance Degradation on iOS - v3.2.1
+R009	app_review	Complaint	Medium		Pricing Complaint - Premium Tier Too Expensive
+R010	app_review	Feature Request	Medium		Feature Request: Recurring Task Support
+R011	app_review	Spam	Low		Spam - Promotional Content
+R012	app_review	Praise	Low		Positive Review - Collaboration Feature
+R013	app_review	Bug	High	Device: OnePlus 12, OS: Android 14, App: 3.2.1. Notifications not firing.	Notification System Broken After Update - Android
+R014	app_review	Feature Request	Medium		Feature Request: Google Calendar and Outlook Integration
+R015	app_review	Bug	High	Device: Pixel 8, OS: Android 14, App: 3.2.1. Freeze on image attachment.	App Freeze When Attaching Images to Tasks
+R016	app_review	Praise	Low		Positive Review - UI Design with Export Suggestion
+R017	app_review	Spam	Low		Spam - Random Characters and Scam Text
+R018	app_review	Complaint	Medium		Complaint - Unresponsive Customer Support
+R019	app_review	Feature Request	Medium		Feature Request: Offline Mode
+R020	app_review	Praise	Low		Positive Review - AI Task Prioritization
+R021	app_review	Bug	High	Device: Galaxy S23, OS: Android 14, App: 3.2.1. Search returns no results.	Search Function Broken - v3.2.1
+R022	app_review	Feature Request	Low		Feature Request: Siri Shortcuts Integration
+R023	app_review	Bug	High	Device: Pixel 7a, OS: Android, App: 3.2.1. 40% battery drain in 2 hours background.	Excessive Battery Drain After Update - Android
+R024	app_review	Complaint	Low		Complaint - Confusing Pricing Model
+R025	app_review	Praise	Low		Positive Review - Dashboard Update
+E001	support_email	Bug	High	Device: Samsung Galaxy S24 Ultra, OS: Android 14, App: 3.2.1. Steps: Open app > Tap Settings > Crash.	Settings Crash on Samsung Galaxy S24 Ultra
+E002	support_email	Feature Request	Medium		Feature Request: Dark Mode
+E003	support_email	Bug	Critical	Device: iPhone 14 Pro, OS: iOS 17.3, App: 3.2.1. Auth failure. Password reset and reinstall ineffective.	Critical Login Failure - Account Inaccessible
+E004	support_email	Feature Request	Low		Feature Request: Kanban Board View
+E005	support_email	Bug	Critical	Device: iPad Air 5th gen, OS: iPadOS 17.4, App: 3.2.1. 50+ tasks lost after sync error.	Critical Data Loss After Sync Error
+E006	support_email	Praise	Low		Positive Feedback - Productivity and Collaboration
+E007	support_email	Bug	High	Device: Google Pixel 8 Pro, OS: Android 14, App: 3.2.1. Notifications stopped after update.	Notification Failure on Pixel 8 Pro - v3.2.1
+E008	support_email	Feature Request	Medium		Feature Request: PDF/Excel/CSV Export
+E009	support_email	Complaint	High		Billing Complaint - Unauthorized Premium Charge
+E010	support_email	Bug	High	Device: OnePlus 12, OS: Android 14, App: 3.2.1. 35% battery usage in background.	Battery Drain Bug - OnePlus 12
