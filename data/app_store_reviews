@@ -1,0 +1,26 @@
+review_id	platform	rating	review_text	user_name	date	app_version
+R001	Google Play	1	App crashes every time I try to open the settings page. Started after the latest update. Using Pixel 7 on Android 14.	mike_t	3/28/2026	3.2.1
+R002	App Store	5	Amazing app! Completely transformed how I manage my daily tasks. Love the calendar integration.	sarah_j	3/29/2026	3.2.0
+R003	Google Play	2	Can't login since the 3.2.1 update. Keeps showing 'Authentication Failed' error. Tried reinstalling twice.	dev_user99	3/27/2026	3.2.1
+R004	App Store	3	Please add dark mode. I use this app at night and the bright white screen is painful.	night_owl	3/30/2026	3.2.0
+R005	Google Play	1	Data sync not working between my phone and tablet. Lost all my notes from last week. Very frustrated.	angry_user	3/26/2026	3.1.9
+R006	App Store	4	Would love to see a Pomodoro timer built into the task view. That would make this perfect.	productivity_fan	3/31/2026	3.2.0
+R007	Google Play	5	Works perfectly on my Samsung S24. Fast, reliable, and the new widget is great.	happy_camper	3/29/2026	3.2.1
+R008	App Store	1	App is extremely slow after the update. Takes 10+ seconds to load the home screen. iPhone 15 Pro, iOS 17.4.	speed_demon	3/28/2026	3.2.1
+R009	Google Play	2	Too expensive for what it offers. The premium tier at $9.99/month is not justified compared to competitors.	budget_user	3/30/2026	3.2.0
+R010	App Store	4	Great app overall but missing functionality for recurring tasks. Please add repeat options for daily/weekly tasks.	task_master	3/31/2026	3.2.0
+R011	Google Play	1	BUY CHEAP FOLLOWERS NOW! Visit www.spamsite.example.com for amazing deals!!!	spam_bot_1	3/27/2026	3.2.0
+R012	App Store	5	Love the new collaboration feature! My team uses it daily and it has improved our workflow significantly.	team_lead	3/29/2026	3.2.0
+R013	Google Play	2	Notifications stopped working completely after the update. I'm missing all my reminders. OnePlus 12, Android 14.	reminder_user	3/28/2026	3.2.1
+R014	App Store	3	Would be great if you could add integration with Google Calendar and Outlook. Currently I have to manually sync.	calendar_fan	3/30/2026	3.2.0
+R015	Google Play	1	App freezes when attaching images to tasks. Have to force close every time. Pixel 8, Android 14.	photo_user	3/27/2026	3.2.1
+R016	App Store	4	Solid productivity app. The UI is clean and intuitive. Just needs better export options.	design_lover	3/31/2026	3.2.0
+R017	Google Play	1	asdfghjkl random text 12345 click here free money	spam_bot_2	3/28/2026	3.1.9
+R018	App Store	2	Poor customer service. Reported a bug 3 weeks ago and still no response. Very disappointed.	waiting_user	3/26/2026	3.2.0
+R019	Google Play	3	Please add offline mode. I travel frequently and can't always rely on internet connectivity.	traveler	3/30/2026	3.2.0
+R020	App Store	5	Best productivity app I've ever used. The AI suggestions for task prioritization are brilliant!	ai_fan	3/31/2026	3.2.1
+R021	Google Play	1	Search function is completely broken. Returns no results even for tasks I know exist. Galaxy S23, Android 14.	search_user	3/29/2026	3.2.1
+R022	App Store	4	Would love to see Siri shortcuts integration so I can add tasks by voice.	voice_user	3/30/2026	3.2.0
+R023	Google Play	2	App drains battery like crazy since update. Lost 40% battery in 2 hours with app in background. Pixel 7a.	battery_saver	3/28/2026	3.2.1
+R024	App Store	3	Decent app but the pricing model is confusing. Too many tiers with overlapping features.	confused_buyer	3/31/2026	3.2.0
+R025	Google Play	5	Fantastic update! The new dashboard view is exactly what I needed. Keep up the great work!	loyal_user	3/29/2026	3.2.1
